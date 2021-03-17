@@ -1,0 +1,19 @@
+{
+  "name": "archerist.github.io",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archerist/archerist.github.io.git"
+  },
+  "author": "Archerist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/archerist/archerist.github.io/issues"
+  },
+  "homepage": "https://github.com/archerist/archerist.github.io#readme"
+}
